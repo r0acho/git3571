@@ -9,3 +9,5 @@
 > git commit -m “message” – создание коммита.
 
 > git remoute add origin <ссылка> - "привязка" удаленного репо к локальному
+
+>git branch -M main - переименование "насильное" ветки master в main

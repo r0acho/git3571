@@ -7,3 +7,7 @@
 > git add – добавить файл или файлы к следующему коммиту
 
 > git commit -m “message” – создание коммита.
+
+> git branch new_branch - создание новой ветки.
+
+> git merge - слияние веток

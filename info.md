@@ -10,4 +10,4 @@
 
 > git branch new_branch - создание новой ветки.
 
-.ku,hygtfrcl
+> git merge - слияние веток

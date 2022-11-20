@@ -19,3 +19,7 @@
 * Git pull - получение изменений и слияние с локальной версией
 
 * Git push - отправление локальной версии репозитория на внешний
+
+Какая я молодец, что прописала все команды ранее=))
+
+![дубль два сработал](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJd4ZyLB4PrUyTYzLoUc9USajCkcIPfl7S_9rs_B3XXYRPYL9XHOu2yD5qVz493Rm4FQk&usqp=CAU) 

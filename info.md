@@ -8,7 +8,7 @@
 
 > git commit -m “message” – создание коммита.
 
-Как сделать pull request
+# Как сделать pull request
 
 * Делаем fork репозитория
 

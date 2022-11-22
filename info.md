@@ -11,3 +11,5 @@
 git init- инициализация локального репозитория
 
 git clone
+
+git merge

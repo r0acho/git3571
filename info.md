@@ -9,3 +9,5 @@
 > git commit -m “message” – создание коммита.
 
 git checkout master - вернутся в ветке мастер 
+
+## - жирный текст 

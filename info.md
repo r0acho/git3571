@@ -10,4 +10,6 @@
 
 git checkout master - вернутся в ветке мастер 
 
-## - жирный текст 
+## -'жирный текст '
+
+git config --global user.name -'приставился гиту '
